@@ -11,9 +11,9 @@
 public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
-        areaRectangulo(2, 5);
+        areaRectangulo(3, 7);
     }
     public static void areaRectangulo(int a,int b){
-        System.out.println("area:"+(a*b));
+        System.out.println("el area:"+(a*b));
     }
 }
